@@ -1,0 +1,30 @@
+Quiz1: Bir olkenin en boyuk paytaxti hansidir?
+A: Baki
+B: Istanbul
+C: Paris
+D: London
+Correct: Baki
+Quiz2: Hansi seher Azerbaycanin paytaxtidir?
+A: Gence
+B: Sumqayit
+C: Seki
+D: Baki
+Correct: Baki
+Quiz3: Fransa paytaxti olan seher hansidir?
+A: Marsel
+B: Lille
+C: Lyon
+D: Paris
+Correct: Paris
+Quiz4: Turkiyenin paytaxti hansi seherdir?
+A: Ankara
+B: Istanbul
+C: Izmir
+D: Antalya
+Correct: Ankara
+Quiz5: Ingilterenin paytaxti hansi seherdir?
+A: Birmingham
+B: Liverpool
+C: Manchester
+D: London
+Correct: London

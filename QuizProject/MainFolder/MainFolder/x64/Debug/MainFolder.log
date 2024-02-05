@@ -1,0 +1,20 @@
+﻿  MainFolder.cpp
+C:\QuizProject\MainFolder\MainFolder\Menu.h(243,31): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  (compiling source file 'MainFolder.cpp')
+  
+C:\QuizProject\MainFolder\MainFolder\Menu.h(405,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'MainFolder.cpp')
+  
+C:\QuizProject\MainFolder\MainFolder\Menu.h(491,20): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MainFolder.cpp')
+  
+C:\QuizProject\MainFolder\MainFolder\Menu.h(533,20): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MainFolder.cpp')
+  
+C:\QuizProject\MainFolder\MainFolder\Menu.h(648,16): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'MainFolder.cpp')
+  
+C:\QuizProject\MainFolder\MainFolder\Menu.h(708,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  (compiling source file 'MainFolder.cpp')
+  
+  MainFolder.vcxproj -> C:\QuizProject\MainFolder\x64\Debug\MainFolder.exe

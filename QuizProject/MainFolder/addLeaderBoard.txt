@@ -1,0 +1,4 @@
+username: user duz: 0 sehv: 5 bosh: 0
+username: user duz: 4 sehv: 1 bosh: 0
+username: user duz: 3 sehv: 2 bosh: 0
+username: user duz: 0 sehv: 5 bosh: 0
